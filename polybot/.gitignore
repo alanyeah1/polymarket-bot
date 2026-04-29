@@ -1,0 +1,21 @@
+# 🔒 絕對不能上傳的東西
+.env
+*.key
+*.pem
+wallet.json
+private_key.txt
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 日誌
+logs/
+*.log
+
+# 系統檔案
+.DS_Store
+Thumbs.db

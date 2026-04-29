@@ -1,0 +1,716 @@
+{
+  "analyzed_at": "2026-04-24T22:56:05.809952",
+  "god_tier": [
+    {
+      "count": 4,
+      "windows": [
+        "1d",
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "1d": 34773.56252425164,
+        "7d": 1196310.745823931,
+        "30d": 1024385.0573692474,
+        "all": 11851846.21330922
+      },
+      "name": "kch123",
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee"
+    },
+    {
+      "count": 4,
+      "windows": [
+        "1d",
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "1d": 168248.01993027475,
+        "7d": 3425801.047767435,
+        "30d": 3425801.047767435,
+        "all": 3425801.047767435
+      },
+      "name": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461",
+      "address": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1"
+    },
+    {
+      "count": 4,
+      "windows": [
+        "1d",
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "1d": 39710.46557130199,
+        "7d": 1929632.961584147,
+        "30d": 1929632.961584147,
+        "all": 1929632.961584147
+      },
+      "name": "CemeterySun",
+      "address": "0x37c1874a60d348903594a96703e0507c518fc53a"
+    },
+    {
+      "count": 4,
+      "windows": [
+        "1d",
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "1d": 72423.58884958572,
+        "7d": 1182987.8510064767,
+        "30d": 1416010.43910215,
+        "all": 2204741.571243759
+      },
+      "name": "gatorr",
+      "address": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723"
+    }
+  ],
+  "elite": [
+    {
+      "count": 3,
+      "windows": [
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "7d": 2243940.0594980335,
+        "30d": 2205688.0159595916,
+        "all": 7458982.716658487
+      },
+      "name": "RN1",
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "7d": 3742635.156562068,
+        "30d": 3742635.156562068,
+        "all": 3742635.156562068
+      },
+      "name": "reachingthesky",
+      "address": "0xefbc5fec8d7b0acdc8911bdd9a98d6964308f9a2"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "7d": 4598456.548919337,
+        "30d": 4016107.832463995,
+        "all": 1991767.5134605914
+      },
+      "name": "HorizonSplendidView",
+      "address": "0x02227b8f5a9636e895607edd3185ed6ee5598ff7"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "7d": 2011255.6792821996,
+        "30d": 1826501.2657313114,
+        "all": 6472113.279700763
+      },
+      "name": "swisstony",
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "7d": 2667279.8422227316,
+        "30d": 2667279.3876772816,
+        "all": 3047075.9807155817
+      },
+      "name": "beachboy4",
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "7d": 1911722.8694884728,
+        "30d": 1911744.6677784733,
+        "all": 3557691.2024890366
+      },
+      "name": "sovereign2013",
+      "address": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "7d": 971055.429716072,
+        "30d": 1495977.4608595576,
+        "all": 4526176.046413323
+      },
+      "name": "432614799197",
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "7d",
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "7d": 1106640.1676719529,
+        "30d": 1030352.6094889451,
+        "all": 4837565.72194648
+      },
+      "name": "GamblingIsAllYouNeed",
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "1d",
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "1d": 128694.47333354654,
+        "7d": 1693744.6904459493,
+        "30d": 1693881.3134217523
+      },
+      "name": "CarlosMC",
+      "address": "0x777d9f00c2b4f7b829c9de0049ca3e707db05143"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "1d",
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "1d": 64377.68711423036,
+        "7d": 1465458.7899144317,
+        "30d": 1347398.309782271
+      },
+      "name": "bossoskil1",
+      "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "1d",
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "1d": 31792.639637405984,
+        "7d": 1255384.959507145,
+        "30d": 1255384.959507145
+      },
+      "name": "texaskid",
+      "address": "0xc8075693f48668a264b9fa313b47f52712fcc12b"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "1d",
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "1d": 31877.4482463256,
+        "7d": 1085679.3566538084,
+        "30d": 736883.3907520521
+      },
+      "name": "Countryside",
+      "address": "0xbddf61af533ff524d27154e589d2d7a81510c684"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "1d",
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "1d": 33612.87708020186,
+        "7d": 781366.4367905309,
+        "30d": 775607.0519270995
+      },
+      "name": "sportmaster777",
+      "address": "0x32ed517a571c01b6e9adecf61ba81ca48ff2f960"
+    },
+    {
+      "count": 3,
+      "windows": [
+        "1d",
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "1d": 15630.479156964691,
+        "7d": 730815.7501132268,
+        "30d": 544605.6078744378
+      },
+      "name": "Talvez10",
+      "address": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4"
+    }
+  ],
+  "stable": [
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 6722355.41528778,
+        "30d": 6415724.342336673
+      },
+      "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+      "address": "0x492442eab586f242b53bda933fd5de859c8a3782"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "30d": 2416975.0291252104,
+        "all": 3668541.581104434
+      },
+      "name": "majorexploiter",
+      "address": "0x019782cab5d844f02bafb71f512758be78579f3c"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "30d",
+        "all"
+      ],
+      "profits": {
+        "30d": 679174.067610354,
+        "all": 4955880.748692182
+      },
+      "name": "gmanas",
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "1d",
+        "all"
+      ],
+      "profits": {
+        "1d": 218541.4894951973,
+        "all": 3888240.0510301962
+      },
+      "name": "DrPufferfish",
+      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 1838338.50083506,
+        "30d": 1908264.381078523
+      },
+      "name": "elkmonkey",
+      "address": "0xead152b855effa6b5b5837f53b24c0756830c76a"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 1598555.560548441,
+        "30d": 1598555.560548441
+      },
+      "name": "gfjoigfsjoigsjoi",
+      "address": "0x36a3f17401e395ef4cb1b7f42bcdb8ab8e15fafb"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 1456634.1819186914,
+        "30d": 1456634.1819186914
+      },
+      "name": "lo34567Taipe",
+      "address": "0xf195721ad850377c96cd634457c70cd9e8308057"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 1268345.8158757663,
+        "30d": 1268345.8158757663
+      },
+      "name": "surfandturf",
+      "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 1202926.5392165454,
+        "30d": 1202926.5392165454
+      },
+      "name": "Blessed-Sunshine",
+      "address": "0x59a0744db1f39ff3afccd175f80e6e8dfc239a09"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 1078962.102562405,
+        "30d": 1168138.639047439
+      },
+      "name": "Anointed-Connect",
+      "address": "0x8f037a2e4fd49d11267f4ab874ab7ba745ac64d6"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 987390.1108623552,
+        "30d": 1079168.1693766592
+      },
+      "name": "bcda",
+      "address": "0xb45a797faa52b0fd8adc56d30382022b7b12192c"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 960486.0945039651,
+        "30d": 960486.0945039651
+      },
+      "name": "Mentallyillgambld",
+      "address": "0x2b3ff45c91540e46fae1e0c72f61f4b049453446"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 909226.0389460088,
+        "30d": 939007.6705372612
+      },
+      "name": "denizz",
+      "address": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 846163.0202817072,
+        "30d": 846163.0202817072
+      },
+      "name": "JPMorgan101",
+      "address": "0xb6d6e99d3bfe055874a04279f659f009fd57be17"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 773074.9474723986,
+        "30d": 826401.5772074191
+      },
+      "name": "chargercharger",
+      "address": "0xb90494d9a5d8f71f1930b2aa4b599f95c344c255"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 776555.8200987761,
+        "30d": 776555.8200987761
+      },
+      "name": "ohuhusos",
+      "address": "0x5ae14dc9e0cf9df72de8d873dcea05aacb799fad"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 757310.9432148515,
+        "30d": 756351.0333345791
+      },
+      "name": "SecondWindCapital",
+      "address": "0x8c80d213c0cbad777d06ee3f58f6ca4bc03102c3"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 728906.61050718,
+        "30d": 728906.61050718
+      },
+      "name": "Feveey",
+      "address": "0xe934f2d7d6358c6c86bfdd5848f1e90412e9640b"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 723178.7523106157,
+        "30d": 727450.8433763854
+      },
+      "name": "0xdE17f7144fbD0eddb2679132C10ff5e74B120988-1772205225932",
+      "address": "0xde17f7144fbd0eddb2679132c10ff5e74b120988"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 710023.1653492638,
+        "30d": 655696.5392265399
+      },
+      "name": "Herdonia",
+      "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 631053.0405289843,
+        "30d": 671343.6701424234
+      },
+      "name": "Soarin22",
+      "address": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 660067.9823691114,
+        "30d": 640259.0567947795
+      },
+      "name": "Cannae",
+      "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 635759.5542650742,
+        "30d": 635759.5542650742
+      },
+      "name": "0xe1D6b51521Bd4365769199f392F9818661BD907",
+      "address": "0xe1d6b51521bd4365769199f392f9818661bd907c"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 645458.0381817495,
+        "30d": 607574.2688376826
+      },
+      "name": "Supah9ga",
+      "address": "0x57cd939930fd119067ca9dc42b22b3e15708a0fb"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 644565.4810951626,
+        "30d": 588666.2419207804
+      },
+      "name": "HedgeMaster88",
+      "address": "0x036c159d5a348058a81066a76b89f35926d4178d"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 603790.6841392082,
+        "30d": 614056.5188794807
+      },
+      "name": "BoneReader",
+      "address": "0xd84c2b6d65dc596f49c7b6aadd6d74ca91e407b9"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 595660.9722920036,
+        "30d": 595660.9722920036
+      },
+      "name": "newdogbeginning",
+      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 568821.0400788505,
+        "30d": 548525.0564504573
+      },
+      "name": "0x8a3aB8120807bD64a3De48695110e390fa2ceB9a-1771005965025",
+      "address": "0x8a3ab8120807bd64a3de48695110e390fa2ceb9a"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 540278.5779737639,
+        "30d": 543650.9686298697
+      },
+      "name": "The Spirit of Ukraine>UMA",
+      "address": "0x0c0e270cf879583d6a0142fc817e05b768d0434e"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 531515.5286610628,
+        "30d": 543265.9723631309
+      },
+      "name": "Lilybaeum",
+      "address": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "7d",
+        "30d"
+      ],
+      "profits": {
+        "7d": 537115.7801297904,
+        "30d": 537115.7801297904
+      },
+      "name": "0xB27BC932bf8110D8F78e55da7d5f0497A18B5b82-1772569391020",
+      "address": "0xb27bc932bf8110d8f78e55da7d5f0497a18b5b82"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "1d",
+        "7d"
+      ],
+      "profits": {
+        "1d": 165941.19318723708,
+        "7d": 520643.0657938601
+      },
+      "name": "BruceWayne77",
+      "address": "0xa2b5bafa01d0f81926a2a88e5628a95b59fc4582"
+    },
+    {
+      "count": 2,
+      "windows": [
+        "1d",
+        "30d"
+      ],
+      "profits": {
+        "1d": 71309.69722038996,
+        "30d": 585076.6581570292
+      },
+      "name": "Wannac",
+      "address": "0xa8e089ade142c95538e06196e09c85681112ad50"
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+[
+  {
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "name": "GamblingIsAllYouNeed",
+    "score": 75,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u26a0\ufe0f \u6301\u5009\u52dd\u7387 48%",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.0 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u5e73\u5747\u55ae\u7b46 87 USDC\uff08\u4f60\u80fd\u8ddf\uff09",
+      "\u2705 \u73a9 33 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "name": "swisstony",
+    "score": 70,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u26a0\ufe0f \u6301\u5009\u52dd\u7387 58%",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.0 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u5e73\u5747\u55ae\u7b46 146 USDC\uff08\u6309\u6bd4\u4f8b\u8ddf\uff09",
+      "\u2705 \u73a9 65 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+    "name": "sovereign2013",
+    "score": 65,
+    "reasons": [
+      "\u2705 \u6709 32 \u500b\u6301\u5009",
+      "\u26a0\ufe0f \u6301\u5009\u52dd\u7387 50%",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.0 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u26a0\ufe0f \u5e73\u5747\u55ae\u7b46 607 USDC\uff08\u8981\u7e2e\u5c0f\u6bd4\u4f8b\uff09",
+      "\u2705 \u73a9 25 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0"
+    ],
+    "trade_count": 200,
+    "position_count": 32
+  },
+  {
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "name": "texaskid",
+    "score": 65,
+    "reasons": [
+      "\u2705 \u6709 3 \u500b\u6301\u5009",
+      "\u2705 \u6301\u5009\u52dd\u7387 67%",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.0 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 138 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 14588 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 3
+  },
+  {
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "name": "Talvez10",
+    "score": 65,
+    "reasons": [
+      "\u2705 \u6709 8 \u500b\u6301\u5009",
+      "\u2705 \u6301\u5009\u52dd\u7387 100%",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.7 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 125 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 13626 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 8
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "name": "RN1",
+    "score": 60,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.0 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u5e73\u5747\u55ae\u7b46 333 USDC\uff08\u6309\u6bd4\u4f8b\u8ddf\uff09",
+      "\u2705 \u73a9 28 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 30%",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+    "name": "elkmonkey",
+    "score": 60,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.0 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u5e73\u5747\u55ae\u7b46 100 USDC\uff08\u6309\u6bd4\u4f8b\u8ddf\uff09",
+      "\u2705 \u73a9 64 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 37%",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "name": "kch123",
+    "score": 55,
+    "reasons": [
+      "\u2705 \u6709 35 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.5 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u26a0\ufe0f \u5e73\u5747\u55ae\u7b46 1885 USDC\uff08\u8981\u7e2e\u5c0f\u6bd4\u4f8b\uff09",
+      "\u2705 \u73a9 17 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 31%",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0"
+    ],
+    "trade_count": 200,
+    "position_count": 35
+  },
+  {
+    "wallet": "0x37c1874a60d348903594a96703e0507c518fc53a",
+    "name": "CemeterySun",
+    "score": 55,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.9 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u26a0\ufe0f \u5e73\u5747\u55ae\u7b46 900 USDC\uff08\u8981\u7e2e\u5c0f\u6bd4\u4f8b\uff09",
+      "\u2705 \u73a9 63 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u50f9\u503c\u70ba 0\uff08\u53ef\u80fd\u5168\u8667\uff09",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
+    "name": "gatorr",
+    "score": 55,
+    "reasons": [
+      "\u2705 \u6709 12 \u500b\u6301\u5009",
+      "\u26a0\ufe0f \u6301\u5009\u52dd\u7387 42%",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.6 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 144 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 15696 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 12
+  },
+  {
+    "wallet": "0x32ed517a571c01b6e9adecf61ba81ca48ff2f960",
+    "name": "sportmaster777",
+    "score": 55,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.4 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u26a0\ufe0f \u5e73\u5747\u55ae\u7b46 510 USDC\uff08\u8981\u7e2e\u5c0f\u6bd4\u4f8b\uff09",
+      "\u2705 \u73a9 36 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u50f9\u503c\u70ba 0\uff08\u53ef\u80fd\u5168\u8667\uff09",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0x777d9f00c2b4f7b829c9de0049ca3e707db05143",
+    "name": "CarlosMC",
+    "score": 50,
+    "reasons": [
+      "\u2705 \u6709 39 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.6 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 114 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 15%",
+      "\u26a0\ufe0f \u8cb7\u8ce3\u5931\u8861 B:199 S:1",
+      "\u274c \u5e73\u5747\u55ae\u7b46 19181 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 39
+  },
+  {
+    "wallet": "0xbddf61af533ff524d27154e589d2d7a81510c684",
+    "name": "Countryside",
+    "score": 50,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.1 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 140 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 11%",
+      "\u26a0\ufe0f \u8cb7\u8ce3\u5931\u8861 B:198 S:2",
+      "\u274c \u5e73\u5747\u55ae\u7b46 23060 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+    "name": "DrPufferfish",
+    "score": 50,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.7 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 126 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 3%",
+      "\u26a0\ufe0f \u8cb7\u8ce3\u5931\u8861 B:194 S:6",
+      "\u274c \u5e73\u5747\u55ae\u7b46 18193 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
+    "name": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461",
+    "score": 45,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.3 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 80 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 9%",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 11382 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
+    "name": "bossoskil1",
+    "score": 45,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.0 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 101 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 6%",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 9246 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "score": 45,
+    "reasons": [
+      "\u2705 \u6709 14 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 0.6 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 69 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 7%",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 24643 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 14
+  },
+  {
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "name": "beachboy4",
+    "score": 43,
+    "reasons": [
+      "\u2705 \u6709 2 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u26a0\ufe0f 11.6 \u5929\u524d\u624d\u4ea4\u6613",
+      "\u2705 \u73a9 34 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 0%",
+      "\u26a0\ufe0f \u8cb7\u8ce3\u5931\u8861 B:197 S:3",
+      "\u274c \u5e73\u5747\u55ae\u7b46 39130 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 2
+  },
+  {
+    "wallet": "0xf195721ad850377c96cd634457c70cd9e8308057",
+    "name": "lo34567Taipe",
+    "score": 43,
+    "reasons": [
+      "\u2705 \u6709 8 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u26a0\ufe0f 17.4 \u5929\u524d\u624d\u4ea4\u6613",
+      "\u2705 \u73a9 45 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 12%",
+      "\u26a0\ufe0f \u8cb7\u8ce3\u5931\u8861 B:178 S:22",
+      "\u274c \u5e73\u5747\u55ae\u7b46 17375 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 8
+  },
+  {
+    "wallet": "0x59a0744db1f39ff3afccd175f80e6e8dfc239a09",
+    "name": "Blessed-Sunshine",
+    "score": 43,
+    "reasons": [
+      "\u2705 \u6709 14 \u500b\u6301\u5009",
+      "\u2705 \u6709 62 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u26a0\ufe0f 27.6 \u5929\u524d\u624d\u4ea4\u6613",
+      "\u2705 \u73a9 30 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u50f9\u503c\u70ba 0\uff08\u53ef\u80fd\u5168\u8667\uff09",
+      "\u26a0\ufe0f \u8cb7\u8ce3\u5931\u8861 B:61 S:1",
+      "\u274c \u5e73\u5747\u55ae\u7b46 29001 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 62,
+    "position_count": 14
+  },
+  {
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "name": "surfandturf",
+    "score": 40,
+    "reasons": [
+      "\u2705 \u6709 174 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 1.6 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 78 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6c92\u6301\u5009\uff08\u53ef\u80fd\u4e0d\u6d3b\u8e8d\uff09",
+      "\u26a0\ufe0f \u8cb7\u8ce3\u5931\u8861 B:156 S:18",
+      "\u274c \u5e73\u5747\u55ae\u7b46 13002 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 174,
+    "position_count": 0
+  },
+  {
+    "wallet": "0x8f037a2e4fd49d11267f4ab874ab7ba745ac64d6",
+    "name": "Anointed-Connect",
+    "score": 38,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u26a0\ufe0f 7.6 \u5929\u524d\u624d\u4ea4\u6613",
+      "\u2705 \u73a9 84 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u50f9\u503c\u70ba 0\uff08\u53ef\u80fd\u5168\u8667\uff09",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 6441 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "name": "gmanas",
+    "score": 35,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 \u73a9 111 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u52dd\u7387\u53ea\u6709 3%",
+      "\u274c \u5df2\u7d93 53 \u5929\u6c92\u4ea4\u6613\u4e86",
+      "\u26a0\ufe0f \u8cb7\u8ce3\u5931\u8861 B:199 S:1",
+      "\u274c \u5e73\u5747\u55ae\u7b46 27829 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0x36a3f17401e395ef4cb1b7f42bcdb8ab8e15fafb",
+    "name": "gfjoigfsjoigsjoi",
+    "score": 35,
+    "reasons": [
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 1.8 \u5929\u524d\u9084\u5728\u4ea4\u6613",
+      "\u2705 \u73a9 12 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6c92\u6301\u5009\uff08\u53ef\u80fd\u4e0d\u6d3b\u8e8d\uff09",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 35071 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 0
+  },
+  {
+    "wallet": "0x02227b8f5a9636e895607edd3185ed6ee5598ff7",
+    "name": "HorizonSplendidView",
+    "score": 30,
+    "reasons": [
+      "\u2705 \u6709 10 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 \u73a9 20 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u50f9\u503c\u70ba 0\uff08\u53ef\u80fd\u5168\u8667\uff09",
+      "\u274c \u5df2\u7d93 44 \u5929\u6c92\u4ea4\u6613\u4e86",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 36944 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 10
+  },
+  {
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "name": "432614799197",
+    "score": 30,
+    "reasons": [
+      "\u2705 \u6709 100 \u500b\u6301\u5009",
+      "\u2705 \u6709 200 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u2705 \u73a9 51 \u500b\u4e0d\u540c\u5e02\u5834\uff08\u5206\u6563\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u50f9\u503c\u70ba 0\uff08\u53ef\u80fd\u5168\u8667\uff09",
+      "\u274c \u5df2\u7d93 46 \u5929\u6c92\u4ea4\u6613\u4e86",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:200 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 4130 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 200,
+    "position_count": 100
+  },
+  {
+    "wallet": "0xefbc5fec8d7b0acdc8911bdd9a98d6964308f9a2",
+    "name": "reachingthesky",
+    "score": 25,
+    "reasons": [
+      "\u2705 \u6709 5 \u500b\u6301\u5009",
+      "\u2705 \u6709 65 \u7b46\u4ea4\u6613\u7d00\u9304",
+      "\u26a0\ufe0f \u53ea\u73a9 8 \u500b\u5e02\u5834\uff08\u96c6\u4e2d\uff09"
+    ],
+    "red_flags": [
+      "\u274c \u6301\u5009\u50f9\u503c\u70ba 0\uff08\u53ef\u80fd\u5168\u8667\uff09",
+      "\u274c \u5df2\u7d93 37 \u5929\u6c92\u4ea4\u6613\u4e86",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:65 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 60071 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09"
+    ],
+    "trade_count": 65,
+    "position_count": 5
+  },
+  {
+    "wallet": "0x019782cab5d844f02bafb71f512758be78579f3c",
+    "name": "majorexploiter",
+    "score": 10,
+    "reasons": [
+      "\u2705 \u6709 60 \u7b46\u4ea4\u6613\u7d00\u9304"
+    ],
+    "red_flags": [
+      "\u274c \u6c92\u6301\u5009\uff08\u53ef\u80fd\u4e0d\u6d3b\u8e8d\uff09",
+      "\u274c \u5df2\u7d93 54 \u5929\u6c92\u4ea4\u6613\u4e86",
+      "\u274c \u53ea\u8cb7\u4e0d\u8ce3\uff08\u53ef\u80fd\u662f\u6a5f\u5668\u4eba\uff09B:60 S:0",
+      "\u274c \u5e73\u5747\u55ae\u7b46 65126 USDC\uff08\u592a\u5927\uff0c\u8ddf\u4e0d\u8d77\uff09",
+      "\u274c \u53ea\u73a9 3 \u500b\u5e02\u5834\uff08\u9ad8\u96c6\u4e2d\uff0c\u53ef\u80fd\u662f\u5957\u5229 bot\uff09"
+    ],
+    "trade_count": 60,
+    "position_count": 0
+  }
+]
